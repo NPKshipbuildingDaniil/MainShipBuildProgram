@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix MainShipBuildProgramВ3",
+  "description": "Imported from GitHub: NPKshipbuildingDaniil/MainShipBuildProgram",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
